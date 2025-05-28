@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+table {
+	border:1px solid black;
+}
+
+td{
+	padding:1px;
+	margin:1px;
+}
+
+.blue {
+	background-color:blue;
+}
+
+.green {
+	background-color:green;
+}
