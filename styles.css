@@ -8,6 +8,10 @@ td{
 	margin:1px;
 }
 
+h1 {
+	text-align:center;
+}
+
 .blue {
 	background-color:blue;
 }
